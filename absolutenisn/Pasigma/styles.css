@@ -1,3 +1,4 @@
+/*Ruga awal*/
 body {
   height: 100vh;
   background-image: linear-gradient(135deg, rgb(81, 158, 235) 17%, rgba(255, 255, 255, 1) 100%);
@@ -47,6 +48,9 @@ body {
     width: 100%;
     gap: 20px;
 }
+
+/*Ruga akhir*/
+/*Vincent awal*/
 
 .skibidi {
   border: 1px solid rgba(255, 255, 255, 0.06);
@@ -131,3 +135,7 @@ button:hover {
     gap: 20px;
     flex-wrap: wrap;
 }
+/*Vincent akhir*/
+/*Patrick buat cursor tiger*/
+
+
